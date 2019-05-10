@@ -1,3 +1,6 @@
 {
-  "extends": "numb"
+  "extends": "numb",
+  "env": {
+    "jest": true
+  }
 }
